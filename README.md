@@ -7,5 +7,5 @@
 
 
 [youtube]: https://www.youtube.com/channel/UCOKWV7dDHbhgA3kfR9ie0fg
-[lbry]: lbry://@vinkami
+[lbry]: https://odysee.com/@vinkami
 [discord]: https://discord.gg/Ad3Tg2fdpj
