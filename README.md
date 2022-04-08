@@ -4,8 +4,10 @@
 [<img align="left" alt="vinkami | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="vinkami | LBRY" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/lbry.svg" />][lbry]
 [<img align="left" alt="vinkami | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="left" alt="vinkami | Willow" width=22px src="https://wlo.link/favicon.ico" />][willow]
 
 
 [youtube]: https://www.youtube.com/channel/UCOKWV7dDHbhgA3kfR9ie0fg
 [lbry]: https://odysee.com/@vinkami
 [discord]: https://discord.gg/Ad3Tg2fdpj
+[willow]: https://wlo.link/@vinkami
