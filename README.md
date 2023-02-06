@@ -5,8 +5,8 @@ I know **Python**, **Kotlin**, and a bit of **Java** and **C++**
 
 Current status: Preparing for the HKDSE, I'm not likely to do much distribution until it ends in mid-May
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vinkami&count_private=true&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinkami&count_private=true&theme=gruvbox&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=vinkami&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinkami&theme=gruvbox&layout=compact&langs_count=6)
 <!-- ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=vinkami&count_private=true&theme=gruvbox) -->
 
 <hr>
