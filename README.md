@@ -1,9 +1,11 @@
 ## Hi, I'm vinkami
 
-I'm a student in Hong Kong, a developer for anything I'm interested about, and a bit of a YouTuber / Twitch streamer!  
-I know **Python**, **Kotlin**, and a bit of **Java** and **C++**
+I'm vinkami, a student in Hong Kong, a developer for anything I'm interested about, and a bit of a YouTuber / Twitch streamer!  
+I know Python, Kotlin, and a bit of HTML and JavaScript (Not CSS sorry).  
+Recently (as of September 2023) I got into the University of Hong Kong as an Applied AI student.  
+Here I am to learn more!  
 
-Current status: Preparing for the HKDSE, I'm not likely to do much distribution until it ends in mid-May
+Also check out [my website][vinkami] if you want to know more about me!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=vinkami&show_icons=true&theme=gruvbox)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinkami&theme=gruvbox&layout=compact&langs_count=6)
