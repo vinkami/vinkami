@@ -5,7 +5,7 @@ I know Python, Kotlin, and a bit of HTML and JavaScript.
 I'm currently final year in University of Hong Kong as an Applied AI student.  
 Here I am to learn more! 
 
-Also check out [my website][vinkami] if you want to know more about me!
+<!-- Also check out [my website][vinkami] if you want to know more about me! -->
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=vinkami&show_icons=true&theme=gruvbox) -->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinkami&theme=gruvbox&layout=compact&langs_count=6) -->
